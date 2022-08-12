@@ -1,0 +1,2 @@
+# kady-ressources
+Kady CDN
